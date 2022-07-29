@@ -7,7 +7,7 @@ An app which uses Selenium library to scrape data from amazon according to the g
 
 ## • How To Install and Use
 
-Install required libraries
+Install required libraries:
 ```
 pip install requirements.txt
 ```
